@@ -308,6 +308,11 @@
   size: 175
   last_checked: 2021-12-24
 
+- domain: brianjdevries.com
+  url: https://brianjdevries.com
+  size: 33.7
+  last_checked: 2022-03-14
+
 - domain: bruton.tech
   url: https://bruton.tech/
   size: 6.4
@@ -897,6 +902,11 @@
   url: https://ianmuchina.com/
   size: 15.0
   last_checked: 2021-12-13
+  
+- domain: ihsaan.glitch.me
+  url: http://ihsaan.glitch.me/
+  size: 121
+  last_checked: 2022-03-15
 
 - domain: imreallybored.xyz
   url: http://imreallybored.xyz/
@@ -1277,11 +1287,6 @@
   url: https://mulph.ie/
   size: 196
   last_checked: 2022-01-31
-
-- domain: mutahar.me
-  url: https://www.mutahar.me/
-  size: 252
-  last_checked: 2021-12-20
 
 - domain: mvion.fr
   url: https://mvion.fr/
